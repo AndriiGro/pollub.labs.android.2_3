@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2i3</string>
+    <string name="textView_lastname">Nazwisko</string>
+    <string name="textView_name">Imię</string>
+    <string name="textView_marksCount">Liczba ocen</string>
+    <string name="button_marks">Oceny</string>
+    <string name="buttonGotowe">Gotowe</string>
+</resources>
