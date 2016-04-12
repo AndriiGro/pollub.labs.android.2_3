@@ -12,7 +12,9 @@
         android:id="@+id/marksList"
         android:layout_width="match_parent"
         android:layout_height="0dip"
-        android:layout_weight="1"></ListView>
+        android:layout_weight="1">
+
+    </ListView>
 
     <Button
         android:id="@+id/buttonDone"
